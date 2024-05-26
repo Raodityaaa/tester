@@ -9,6 +9,9 @@ Exams are sometimes not so bad
 
 ```{r}
 library(tidyverse)
-plot(cars)
+plot(airquality)
 ```
 
+# New Section
+
+This is new 
