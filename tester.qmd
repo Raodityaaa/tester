@@ -7,7 +7,5 @@ This is a quarto markdown document that has been edited to create a major confli
 
 I do not enjoy conflicts as it reminds me of the time my parents used to fight, conflicting opinions on their marriage.
 
-Exams are the worst.
-
-
+Exams are sometimes not so bad
 
