@@ -1,0 +1,22 @@
+added data to folder
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sun May 26 22:23:55 2024 +1000
+#
+# On branch testbranch
+# Changes to be committed:
+#	new file:   data/Screenshot.png
+#	new file:   data/World_Marriage_Data_2019 (1).xlsx
+#
+# Changes not staged for commit:
+#	deleted:    .Rproj.user/B91B37F3/jobs/6DA7B56A-output.json
+#	modified:   .Rproj.user/B91B37F3/sources/prop/A6535FBE
+#	deleted:    .Rproj.user/B91B37F3/sources/session-26b1412d/97555615
+#	deleted:    .Rproj.user/B91B37F3/sources/session-26b1412d/97555615-contents
+#	deleted:    .Rproj.user/B91B37F3/sources/session-26b1412d/lock_file
+#
+# Untracked files:
+#	.gitignore
+#
